@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
             description = "We are configuring the application, please wait a moment!"
             backgroundTransparency = 0.9f
         }
-        LoadingFS.show(this, params)
+        //LoadingFS.show(this, params)
 
 
         LoadingFS.builder(LoadingType.DEFAULT, params)
