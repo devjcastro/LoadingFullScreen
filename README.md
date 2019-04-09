@@ -9,10 +9,10 @@ Loading Full Screen is a library to invoke a loading in full screen
 Add it in your root build.gradle at the end of repositories:
 ```
 allprojects {
-	repositories {
-		...
-		maven { url "https://jitpack.io" }
-	}
+    repositories {
+	...
+	maven { url "https://jitpack.io" }
+    }
 }
 ```
 
@@ -30,18 +30,18 @@ dependencies {
 #### Maven
 ```
 <repositories>
-  <repository>
-	  <id>jitpack.io</id>
-		  <url>https://jitpack.io</url>
-	</repository>
+    <repository>
+        <id>jitpack.io</id>
+	<url>https://jitpack.io</url>
+    </repository>
 </repositories>
 ```
 
 Add the dependency
 ```
 <dependency>
-  <groupId>com.github.ingyork</groupId>
+    <groupId>com.github.ingyork</groupId>
 	<artifactId>LoadingFullScreen</artifactId>
-	<version>Tag</version>
+    <version>Tag</version>
 </dependency>
 ```
