@@ -21,11 +21,11 @@ allprojects {
 Add the dependency in the build.gradle**
 ```
 dependencies {
-    implementation 'com.github.ingyork:LoadingFullScreen:Tag'
+    implementation 'com.github.devjcastro:LoadingFullScreen:Tag'
 }
 ```
 
-[![](https://jitpack.io/v/ingyork/LoadingFullScreen.svg)](https://jitpack.io/#ingyork/LoadingFullScreen)
+[![](https://jitpack.io/v/devjcastro/LoadingFullScreen.svg)](https://jitpack.io/#devjcastro/LoadingFullScreen)
 
 #### Maven
 ```
@@ -40,7 +40,7 @@ dependencies {
 Add the dependency
 ```
 <dependency>
-    <groupId>com.github.ingyork</groupId>
+    <groupId>com.github.devjcastro</groupId>
 	<artifactId>LoadingFullScreen</artifactId>
     <version>Tag</version>
 </dependency>
